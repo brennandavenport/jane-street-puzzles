@@ -1,0 +1,28 @@
+Image
+ - Box cells: 132 (this includes one of the green dashes to connect the component)
+ - could be up to 136
+ - number of circles: 6
+ - number of squares: 7
+
+for rectangular prism:
+- let w, l, h = width, length, height 
+- Surface Area = 2(wl + lh + wh)
+
+Given Surface area side (int) lengths must be:
+- 132 = 2, 3, 12
+        2, 5, 8
+- 133 = 0
+- 134 = 1, 1, 33
+        1, 3, 16
+- 135 = 0
+- 136 = 1, 2, 22
+        2, 2, 16
+        2, 4, 10
+        2, 6, 7
+        3, 4, 8
+
+
+Unfortunatly ran out of time this month
+If I had time:
+Build backtracking algo to search for rectangular prism algo would have been
+2^n but with very agressive pruning.
