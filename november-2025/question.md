@@ -1,4 +1,4 @@
-## November 2025 Puzzle – *Shut the Box*
+## Shut the Box
 
 Use scissors to cut away one or more **orthogonally connected** groups of cells (squares) from the grid above.  
 Each removed group must have **at least one cell touching the outer boundary** of the grid.  
